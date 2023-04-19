@@ -1,2 +1,2 @@
-# Estudo-Python-Curso-E-V
-Repositório para colocar os códigos que aprendi no Curso em Video (Youtube), e vejo por ai na internet
+# Estudos-Python-Curso-E-V
+# Este é um repositório onde guardarei tudo oque eu aprender sobre python pelo Youtube
